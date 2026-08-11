@@ -6,7 +6,7 @@ Building technology from Botswana 🇧🇼
 🌐 [scheke.com](https://scheke.com)
 
 ## 🚀 Start Here
-
+ <p> <img src="https://skillicons.dev/icons?i=react" width="45" /> </p>
 - 🤖 **Kitso AI**
 - 📱 **Find My Device BW**
 - ⚖️ **KnowYourRightsBW**
@@ -24,4 +24,5 @@ React · Flutter · Next.js · TypeScript · JavaScript · Firebase · Java · C
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,firebase,java,cpp,git,github,vercel,vscode)](https://skillicons.dev)
 ## Contact
 boipusorante@gmail.com
-🌐 [scheke.com](https://scheke.com)
+🌐 [scheke.com](https://scheke.com)  [![Website](https://img.shields.io/badge/Scheke.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://scheke.com)
+
