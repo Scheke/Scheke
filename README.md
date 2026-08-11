@@ -21,7 +21,7 @@ I'm a software builder from Botswana and founder of **Scheke Innovationhub**, bu
 ## Tech
 
 React · Flutter · Next.js · TypeScript · JavaScript · Firebase · Java · C++ · Capacitor
-
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,firebase,java,cpp,git,github,vercel,vscode)](https://skillicons.dev)
 ## Contact
 boipusorante@gmail.com
 🌐 [scheke.com](https://scheke.com)
