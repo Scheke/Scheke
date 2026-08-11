@@ -3,7 +3,7 @@
 Founder and CEO of **Scheke Innovationhub**  
 Building technology from Botswana 🇧🇼
 
-🌐 [scheke.com](https://scheke.com)  <img width="50" height="60" alt="favicon_crop" src="https://github.com/user-attachments/assets/84708cdc-41be-468d-82df-ab374ea9c2ab" />
+ <img width="50" height="50" alt="favicon_crop" src="https://github.com/user-attachments/assets/84708cdc-41be-468d-82df-ab374ea9c2ab" /> 🌐 [scheke.com](https://scheke.com) 
 
 
 ## 🚀 Start Here
