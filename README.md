@@ -1,6 +1,6 @@
 # Hi, I'm Boipuso Rante 👋
 
-Founder of **Scheke Innovationhub**  
+Founder and CEO of **Scheke Innovationhub**  
 Building technology from Botswana 🇧🇼
 
 🌐 [scheke.com](https://scheke.com)
@@ -23,5 +23,5 @@ I'm a software builder from Botswana and founder of **Scheke Innovationhub**, bu
 React · Flutter · Next.js · TypeScript · JavaScript · Firebase · Java · C++ · Capacitor
 
 ## Contact
-
+boipusorante@gmail.com
 🌐 [scheke.com](https://scheke.com)
