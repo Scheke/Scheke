@@ -7,10 +7,10 @@ Building technology from Botswana 🇧🇼
 
 
 ## 🚀 Start Here
-- 📱 **Find My Device BW** · Recovery · Device Security
-- 💼 **JobFinder BW** A clean job discovery platform built to help Batswana find opportunities
-- 🚦 **RoadTheory BW** A focused learner platform for Botswana road theory preparation
-- 🔬 **BEC Science**An interactive science learning platform
+- 📱 **Find My Device BW** --- Recovery · Device Security
+- 💼 **JobFinder BW** --- A clean job discovery platform built to help Batswana find opportunities
+- 🚦 **RoadTheory BW** --- A focused learner platform for Botswana road theory preparation
+- 🔬 **BEC Science** --- An interactive science learning platform
 - 🟢 **And many more on our website**
 
 ## About
