@@ -3,7 +3,8 @@
 Founder and CEO of **Scheke Innovationhub**  
 Building technology from Botswana 🇧🇼
 
-🌐 [scheke.com](https://scheke.com)
+🌐 [scheke.com](https://scheke.com)  <img width="555" height="558" alt="favicon_crop" src="https://github.com/user-attachments/assets/84708cdc-41be-468d-82df-ab374ea9c2ab" />
+
 
 ## 🚀 Start Here
 - 🤖 **Kitso AI**
